@@ -55,9 +55,9 @@ hr
 body{
     background-color: #571807;
     color: #E8D4A1;
+    text-align: center;
 }
 div{
-    text-align: center;
     border-bottom: 20px;
     border-top: 20px;
     border-left: 20px;
