@@ -28,24 +28,28 @@ hr
 {
     width: 220px;
     margin-left: 20px;
+    float: right;
 }
 
 #kapolna
 {
     width: 220px;
     margin-right: 20px;
+    float: left;
 }
 
 #vonat
 {
     width: 360px;
     margin-left: 20px;
+    float: right;
 }
 
 #kormenet
 {
     width: 320px;
-    margin-right: 20px;    
+    margin-right: 20px;  
+    float: left;  
 }
 
 #forras
